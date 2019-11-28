@@ -3,4 +3,5 @@ services:
   scrapy:
     build: .
     volumes:
-      - .:/app
+      - ./ksp:/app
+      - ./data:/data
