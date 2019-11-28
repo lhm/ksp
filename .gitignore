@@ -1,7 +1,6 @@
 .DS_Store
 *~
 .scrapy
-data
 
 # Python
 __pycache__/
